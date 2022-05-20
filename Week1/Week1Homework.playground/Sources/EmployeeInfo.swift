@@ -2,7 +2,7 @@ import Foundation
 
 public class EmployeeInfo {
     
-    enum SortMethod {
+    public enum SortMethod {
         case BYNAME,BYSALARY;
     };
 
